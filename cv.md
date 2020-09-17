@@ -1,15 +1,15 @@
 # My name is Evgeny Khramovich
 ## Contact Info
-*Phone: +375 44 561-25-22
-*Email: nupker@mail.ru
-*Telegram: @nupker
+* Phone: +375 44 561-25-22
+* Email: nupker@mail.ru
+* Telegram: @nupker
 ## About me
 Now I am studying at the university. I am interested in the IT industry and spending time with friends. I have a good communication skill that helps me to work in a team. I hope to become a qualified professional in front-end.
 ## Skills
-*C/C++
-*JS
-*HTML5/CSS3
-*Git
+1. C/C++
+2. JS
+3. HTML5/CSS3
+4. Git
 ## Code examples
 I do not currently have any code examples, but they will soon be seen on my [GitHub](https://github.com/KhramovichEvgeny).
 ## Experience
