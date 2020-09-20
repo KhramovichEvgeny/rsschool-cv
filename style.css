@@ -1,0 +1,63 @@
+header {
+    margin-left: 61%;
+    text-align: center;
+    font-family: Times New Roman;
+    font-size: 37px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
+
+
+body{
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+}
+img {
+    border: 1px solid #000;
+    display: inline;
+    margin: 10px;
+}
+
+
+ .contact {
+    display: flex; 
+
+} 
+
+.contact-info {
+    margin-left: 51%;
+    padding: 3px;
+    font-family: Times New Roman;
+    font-size: 24px;
+}
+
+.gh {
+    color:#000;
+    margin-left: 70%;
+}
+
+.number {
+    margin-left: -4%;
+}
+
+.tg {
+    margin-left: 22%;
+}
+
+.mail {
+    margin-left: 8%;
+}
+
+.baner {
+    margin-top: 35px;
+    font-family: Times New Roman;
+    font-size: 55px;
+}
+
+.text {
+    margin-top: 20px;
+    font-family: Times New Roman;   
+    font-size: 24px;
+}
